@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React from "react";
 
 //COMPONENTS
 import CTA from "./CTA";
@@ -8,7 +8,6 @@ import HeaderSocials from "./HeaderSocials";
 import "./Header.style.css";
 
 const Header = () => {
-  const [isPlaying, setIsPlaying] = useState(true);
   return (
     <header>
       <div className="container header__container">
