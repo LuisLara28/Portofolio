@@ -10,7 +10,7 @@ const HeaderSocials = () => {
   return (
     <div className="header__socials">
       <a
-        href="https://www.linkedin.com/in/luis-lara-ab142a153"
+        href="https://linkedin.com/in/luis-e-lara-morales-ab142a153"
         target="_blank"
         rel="noreferrer"
       >
